@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Project L
+                    Project L2
                 </div>
             </div>
         </div>
